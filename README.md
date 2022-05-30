@@ -14,6 +14,6 @@ This is my portfolio website that i made with [Vue.js](https://vuejs.org/) & [Ta
 
 ## Customization
 
-As said above, you can customize the website with `builder.js` file in the `/src/`.
+As said above, you can customize the website with `builder.js` file in the `/src/`. Here is an example of the file.
 
 ![Image](/DELETEME/ray.so.png)
