@@ -34,14 +34,15 @@ server {
 ```shell
 ## Open Directory
 cd /var/www
-## Clone as 'CoolFolio'
-git clone https://github.com/CoolFolio/CoolFolio.git CoolFolio
+## Clone as 'Portfolio'
+git clone https://github.com/CoolFolio/CoolFolio.git Portfolio
 ## Open Directory
-cd CoolFolio
+cd Portfolio
 ## Install Modules
-npm run install
+npm install
 ## Build
 npm run build
+## Press Enter & You're Done
 ```
 
 ## Customization
