@@ -7,7 +7,6 @@ export default {
       localStorage: localStorage,
     };
   },
-  async created() {},
 };
 </script>
 <template>

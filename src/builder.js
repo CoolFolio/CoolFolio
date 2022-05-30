@@ -13,6 +13,7 @@ const Name = "Jareer";
 const GalleryArray = [];
 for (let i = 0; i < 4; i++) {
   GalleryArray.push({
+    scaleOnHover: true,
     image: `https://raw.githubusercontent.com/BloxSafe/Frontend/main/bin/${i}.jpg`,
   });
 }
