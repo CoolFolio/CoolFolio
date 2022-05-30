@@ -26,7 +26,7 @@ export default {
           target="_blank"
           href="https://github.com/CoolFolio/CoolFolio"
           :class="`sm:float-right text-${localStorage.color}`"
-          >github.com/Coolfolio</a
+          ><span class="text-gray-300">github.com/</span>CoolFolio/CoolFolio</a
         >
       </div>
     </main>
