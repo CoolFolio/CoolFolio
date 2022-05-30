@@ -1,6 +1,4 @@
 <script setup>
-console.log(window.Settings);
-
 import Hero from "../components/Hero.vue";
 import Skills from "../components/Skills.vue";
 import Footer from "../components/Footer.vue";
