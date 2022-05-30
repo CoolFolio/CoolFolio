@@ -11,3 +11,9 @@ This is my portfolio website that i made with [Vue.js](https://vuejs.org/) & [Ta
 - `valencia` - Red
 - `emerald` - Green
 - `amethyst` - Pink
+
+## Customization
+
+As said above, you can customize the website with `builder.js` file in the `/src/`.
+
+![Image](/DELETEME/ray.so.png)
